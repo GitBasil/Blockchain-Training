@@ -23,6 +23,9 @@ console.log(minerAddress + " Balance:" +testBlock.getBalanceOfAddress(minerAddre
 
 console.log(JSON.stringify(testBlock.chain,null,4));
 
+
+
+
 // console.log("is blockchain valid ? " + testBlock.isValid());
 
 // testBlock.chain[1].data.amount =3000;
